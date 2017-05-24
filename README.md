@@ -9,11 +9,11 @@ Type **"mvn clean install -Dbrowser=chrome"** and press **"Enter"** to run the t
 
 **Note 2:** In order to view intentional fail case as well, navigate to;
 
-"md5.feature" and delete the "@ignore" tag from the second scenario. Afterwards, run the tests on desired browser as described above.
+"md5.feature" and delete the **"@ignore"** tag from the second scenario. Afterwards, run the tests on desired browser as described above.
 
 **Note 3:** Please see the test automation results from; 
 
-"target->cucumber-html-reports->cucumber-html-reports->overview-features.html" right click and click on "Open in Browser". Select the default browser to view the results.
+"target->cucumber-html-reports->cucumber-html-reports->overview-features.html" right click and click on **"Open in Browser"**. Select the default browser to view the results.
 
 **Environment Info:**
 - Mac OS Sierra - 10.12.1
