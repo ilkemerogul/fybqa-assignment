@@ -4,6 +4,7 @@ This repository includes assignment results.
 **Note 1:** After cloning, open the project with IntelliJ Idea. Click on **"Terminal"**;
 
 Type **"mvn clean install -Dbrowser=firefox"** and press **"Enter"** to run the tests on Firefox browser,
+
 Type **"mvn clean install -Dbrowser=chrome"** and press **"Enter"** to run the tests on Chrome browser.
 
 **Note 2:** In order to view intentional fail case as well, navigate to;
