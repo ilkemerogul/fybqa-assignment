@@ -1,7 +1,7 @@
 # fybqa-assignment
 This repository includes assignment results.
 
-**Note 1:** After cloning, open the project with IntelliJ Idea. Click on **"Terminal"**;
+**Note 1:** After cloning the code, open the project with IntelliJ Idea. Click on **"Terminal"**;
 
 Type **"mvn clean install -Dbrowser=firefox"** and press **"Enter"** to run the tests on Firefox browser,
 
@@ -18,6 +18,7 @@ Type **"mvn clean install -Dbrowser=chrome"** and press **"Enter"** to run the t
 **Environment Info:**
 - Mac OS Sierra - 10.12.1
 - IntelliJ Idea 15.0.3
+- Java 1.8
 - Apache Maven 3.3.9
 - Selenium Standalone Server 3.4.0
 - Cucumber JVM 1.2.5
