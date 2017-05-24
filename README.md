@@ -1,6 +1,8 @@
 # fybqa-assignment
 This repository includes assignment results.
 
+**Preconditions:** Please check your browser version before running the tests, update if necessary.
+
 **Note 1:** After cloning the code, open the project with IntelliJ Idea. Click on **"Terminal"**;
 
 Type **"mvn clean install -Dbrowser=firefox"** and press **"Enter"** to run the tests on Firefox browser,
